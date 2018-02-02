@@ -1,0 +1,20 @@
+{
+    "contest": [
+        {"id":1,
+         "category":"Business",
+         "contest":"Bricks"
+        },
+        {"id":2,
+        "category":"Business2",
+        "contest":"Bricks2"
+        },
+        {"id":3,
+        "category":"Business3",
+        "contest":"Bricks3"
+        },
+        {"id":4,
+        "category":"Business4",
+        "contest":"Bricks4"
+        }
+    ]
+}
